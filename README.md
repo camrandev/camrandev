@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! I am Camran and I am based in Boston, MA.
+#### Hello! I am Camran and I am based in Boston, MA.
 
-## I’m looking to collaborate on open-source projects and am open to working remotely or in person as a software engineer. I am also open to contract work in certain situations.
+#### I’m looking to collaborate on open-source projects and am open to working remotely or in person as a software engineer. I am also open to contract work in certain situations.
 
-## Ask me about my experience working on the customer-facing side of the SaaS industry, and how that informs my approach to software development.
+#### Ask me about my experience working on the customer-facing side of the SaaS industry, and how that informs my approach to software development.
 
-## Feel free to reach me: camran.dev@gmail.com.
+#### Feel free to reach me: camran.dev@gmail.com.
