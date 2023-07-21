@@ -1,6 +1,6 @@
 
 <!--
-### Hi there 👋
+### Hi there 
 **camrandev/camrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am Camran and I am based in Boston, MA.
+👋 Hello! I am a full-stack software engineer, with a high level of comfort in both Javascript and Python-based stacks. 
 
-I’m looking to collaborate on open-source projects and am open to working remotely or in person as a software engineer. I am also open to contract work.
+🌱 I’m currently learning Typescript by converting some of my older personal projects into Typescript, as well as studying DSA.
 
-Feel free to reach me: crynowecer11@gmail.com.
+📫 Feel free to reach me: crynowecer11@gmail.com.
