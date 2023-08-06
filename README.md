@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 👋 Hello! I am a full-stack software engineer, with a high level of comfort in both Javascript and Python-based stacks. My most recent professional experience was working primarily in Python/Django with a bit of React-Native, so you will not be able to see that in my repos. In my personal projects, I have used Javascript with React + Node, as well as Python with Flask. 
 
-🌱 I’m currently learning Typescript by converting some of my older personal projects into Typescript, as well as studying DSA.
+🔭 I am currently doing some freelancing, as well as learning Next.js
 
 📫 Feel free to reach me: crynowecer11@gmail.com.
