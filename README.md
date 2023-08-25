@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 👋 Hello! I am a full-stack software engineer, with a high level of comfort in both Javascript and Python-based stacks. On my current project, I am building an MVP for a stealth startup in the logistics space. The MVP consists of a React client and Flask API. The project is being deployed using AWS Amplify for the client, and AWS Lightsail for the API. Previously, I worked primarily on the backend with Python and Django. 
 
-👯 I currently have the bandwidth for at least one additional project.  I am also open to connecting with anyone considering coding boot camp and am looking forward to the opportunity to give back to the community.
+👯 I currently have the bandwidth for at least one additional project, and I am also open to full-time opportunities.
 
 📫 Feel free to reach me: crynowecer11@gmail.com.
